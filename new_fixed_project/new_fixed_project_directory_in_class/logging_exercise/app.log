@@ -1,0 +1,15 @@
+INFO:root:Program started
+WARNING:root:This is a warning
+ERROR:root:Something went wrong
+INFO:root:Program started
+WARNING:root:This is a warning
+ERROR:root:Something went wrong
+INFO:root:Program started
+WARNING:root:This is a warning
+ERROR:root:Something went wrong
+INFO:root:Division started
+DEBUG:root:Numbers entered: 10, 2
+INFO:root:Final answer: 5.0
+INFO:root:Division started
+DEBUG:root:Numbers entered: 8, 0
+ERROR:root:Cannot divide by zero

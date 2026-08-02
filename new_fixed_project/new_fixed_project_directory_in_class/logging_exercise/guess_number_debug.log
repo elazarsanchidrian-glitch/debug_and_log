@@ -1,0 +1,5 @@
+INFO:root:Game started
+INFO:root:User guessed: 5
+INFO:root:User guessed: 7
+INFO:root:User guessed: 8
+INFO:root:Player guessed correctly in 3 attempts

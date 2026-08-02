@@ -1,0 +1,9 @@
+INFO:root:Processing grades started
+DEBUG:root:Checking grade: 85
+DEBUG:root:Checking grade: 92
+DEBUG:root:Checking grade: 41
+WARNING:root:Failing grade: 41
+DEBUG:root:Checking grade: 100
+DEBUG:root:Checking grade: -5
+ERROR:root:Invalid grade: -5
+INFO:root:Average grade: 62.6

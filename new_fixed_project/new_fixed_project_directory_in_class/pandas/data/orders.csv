@@ -1,0 +1,41 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country
+1001,John Smith,Laptop,Electronics,1,1200,01/06/2024,Yes,USA
+1002,Sarah Lee,Headphones,Electronics,2,150,03/06/2024,No,Canada
+1003,Ali Khan,Office Chair,Furniture,1,300,04/06/2024,Yes,UAE
+1004,Alice Wong,Desk Lamp,Furniture,3,45,05/06/2024,Yes,Singapore
+1005,Carlos Mendez,Keyboard,Electronics,2,80,06/06/2024,No,Mexico
+1006,Nora Ibrahim,Notebook,Stationery,5,5,07/06/2024,Yes,UAE
+1007,Emily Davis,Standing Desk,Furniture,1,450,08/06/2024,Yes,UK
+1008,James Park,Monitor,Electronics,2,220,09/06/2024,No,South Korea
+1009,Maria Rossi,Pen,Stationery,10,1.5,10/06/2024,Yes,Italy
+1010,Takeshi Nakamura,Mouse,Electronics,1,35,11/06/2024,Yes,Japan
+1011,Sophie Martin,Webcam,Electronics,1,85,12/06/2024,Yes,France
+1012,Raj Patel,File Cabinet,Furniture,2,180,13/06/2024,No,India
+1013,Emma Wilson,Stapler,Stationery,3,12,14/06/2024,Yes,Australia
+1014,Diego Rodriguez,USB Drive,Electronics,5,25,15/06/2024,Yes,Spain
+1015,Lisa Chen,Bookshelf,Furniture,1,280,16/06/2024,No,China
+1016,Ahmed Hassan,Printer Paper,Stationery,20,8,17/06/2024,Yes,Egypt
+1017,Anna Kowalski,Wireless Mouse,Electronics,2,45,18/06/2024,Yes,Poland
+1018,Michael Brown,Desk Organizer,Furniture,1,65,19/06/2024,No,USA
+1019,Yuki Tanaka,Calculator,Electronics,1,15,20/06/2024,Yes,Japan
+1020,Fatima Al-Zahra,Whiteboard,Furniture,1,120,21/06/2024,Yes,Saudi Arabia
+1021,David Thompson,Highlighters,Stationery,8,3.5,22/06/2024,No,Canada
+1022,Isabella Silva,Bluetooth Speaker,Electronics,1,95,23/06/2024,Yes,Brazil
+1023,Oliver Schmidt,Office Plant,Furniture,2,35,24/06/2024,Yes,Germany
+1024,Zara Ahmed,Sticky Notes,Stationery,15,4,25/06/2024,No,Pakistan
+1025,Lucas Anderson,Tablet Stand,Electronics,1,28,26/06/2024,Yes,Sweden
+1026,Chloe Dubois,Paper Shredder,Electronics,1,75,27/06/2024,Yes,France
+1027,Miguel Torres,Desk Chair Mat,Furniture,1,22,28/06/2024,No,Argentina
+1028,Nina Petrov,Binder Clips,Stationery,12,2.5,29/06/2024,Yes,Russia
+1029,Seo-yeon Kim,Wireless Keyboard,Electronics,1,110,30/06/2024,Yes,South Korea
+1030,Giuseppe Romano,Desk Calendar,Furniture,1,18,01/07/2024,No,Italy
+1031,Amira Hassan,USB Hub,Electronics,1,32,02/07/2024,Yes,Morocco
+1032,Thomas Müller,Document Scanner,Electronics,1,140,03/07/2024,Yes,Germany
+1033,Sofia Rodriguez,Desk Drawer Organizer,Furniture,1,42,04/07/2024,No,Colombia
+1034,Alex Johnson,Index Cards,Stationery,100,0.8,05/07/2024,Yes,USA
+1035,Yuki Yamamoto,Monitor Stand,Electronics,1,55,06/07/2024,Yes,Japan
+1036,Emma Thompson,Desk Lamp with USB,Furniture,1,68,07/07/2024,No,UK
+1037,Carlos Santos,Wireless Earbuds,Electronics,1,125,08/07/2024,Yes,Portugal
+1038,Leila Mansouri,Desk Pad,Furniture,1,28,09/07/2024,Yes,Iran
+1039,Daniel Kim,Power Strip,Electronics,2,18,10/07/2024,No,South Korea
+1040,Anna Ivanova,Desk Clock,Furniture,1,35,11/07/2024,Yes,Ukraine
