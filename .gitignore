@@ -1,0 +1,10 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Secrets
+api_key.py
+.env
